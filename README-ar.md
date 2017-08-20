@@ -18,11 +18,7 @@
 
 التعبير النمطي هو نمط يتم مطابقته مع سلسلة محارف من اليسار إلى اليمين. لفظ «تعبير نمطي» هو لقمة، من العادة ستجد اللفظ مختصرا بـ«regex» أو «regexp». يستعمل التعبير النمطي لاستبدال نص داخل سلسلة محارف، للتحقق من نموذج، لاستخراج قطعة من سلسلة محارف اعتمادا على تطابق نمط معين، والمزيد.
 
-Imagine you are writing an application and you want to set the rules for when a
-user chooses their username. We want to allow the username to contain letters,
-numbers, underscores and hyphens. We also want to limit the number of characters
-in username so it does not look ugly. We use the following regular expression to
-validate a username:
+تخيل أنك تقوم بتطوير تطبيق وكنت تريد أن تضع قواعد لاختيار المستخدمين لأسمائهم. نريد أن يحتوي اسم المستخدم حروفا وأرقاما وتساطير سفلية (_) وعلامات الوصل (-). نريد أن نحدد أيضا عدد الحروف في اسم المستخدم لكي لا يبدو قبيحا. نستعمل التعبير النمطي التالي للتحقق من اسم المستخدم:
 
 <br/><br/>
 <p align="center">
