@@ -1,5 +1,5 @@
 <br/>
-<h1 style="text-align: center;">تعلم التعابير النمطية</h1>
+<h1 style="text-align: center;color:red">تعلم التعابير النمطية</h1>
 <h2 style="text-align: center;">بالطريقة الصحيحة</h2>
 <br/>
 
