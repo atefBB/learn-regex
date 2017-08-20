@@ -16,11 +16,7 @@
 
 > التعبير النمطي هو مجموعة حروف أو رموز تستعمل لإيجاد نمط محدد في نص ما.
 
-A regular expression is a pattern that is matched against a subject string from
-left to right. The word "Regular expression" is a mouthful, you will usually
-find the term abbreviated as "regex" or "regexp". Regular expression is used for
-replacing a text within a string, validating form, extract a substring from a
-string based upon a pattern match, and so much more.
+التعبير النمطي هو نمط يتم مطابقته مع سلسلة محارف من اليسار إلى اليمين. لفظ «تعبير نمطي» هو لقمة، من العادة ستجد اللفظ مختصرا بـ«regex» أو «regexp». يستعمل التعبير النمطي لاستبدال نص داخل سلسلة محارف، للتحقق من نموذج، استخراج قطعة من سلسلة محارف اعتمادا على تطابق نمط معين، وأكثر من ذلك.
 
 Imagine you are writing an application and you want to set the rules for when a
 user chooses their username. We want to allow the username to contain letters,
