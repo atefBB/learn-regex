@@ -3,22 +3,28 @@
 <img src="https://i.imgur.com/bYwl7Vf.png" alt="Learn Regex">
 </p><br/>
 
-## الترجمات
+<h2 dir="rtl">الترجمات</h2>
+<ul dir="rtl">
+<li><a href="README.md">English</a></li>
+<li><a href="README-es.md">Español</a></li>
+<li><a href="README-fr.md">Français</a></li>
+<li><a href="README-cn.md">中文版</a></li>
+<li><a href="README-jp.md">日本語</a></li>
+<li><a href="README-ko.md">한국어]</a></li>
+</ul>
 
-* [English](README.md)
-* [Español](README-es.md)
-* [Français](README-fr.md)
-* [中文版](README-cn.md)
-* [日本語](README-ja.md)
-* [한국어](README-ko.md)
+<h2 dir="rtl">ما هي التعابير النمطية؟</h2>
 
-## ما هي التعابير النمطية؟
+<blockquote dir="rtl">
+<p>التعبير النمطي هو مجموعة حروف أو رموز تستعمل لإيجاد نمط محدد في نص ما.</p>
+</blockquote>
 
-> التعبير النمطي هو مجموعة حروف أو رموز تستعمل لإيجاد نمط محدد في نص ما.
-
+<p dir="rtl">
 التعبير النمطي هو نمط يتم مطابقته مع سلسلة محارف من اليسار إلى اليمين. لفظ «تعبير نمطي» هو عبارة طويلة جدا، من العادة ستجد اللفظ مختصرا بـ«regex» أو «regexp». يستعمل التعبير النمطي لاستبدال نص داخل سلسلة محارف، للتحقق من نموذج، لاستخراج نص معين من سلسلة محارف اعتمادا على تطابق نمط معين، والمزيد.
-
+<p>
+<p dir="rtl">
 تخيل أنك تقوم بتطوير تطبيق وكنت تريد أن تضع قواعد لاختيار المستخدمين لأسمائهم. نريد أن يحتوي اسم المستخدم حروفا وأرقاما وتساطير سفلية (_) وعلامات الوصل (-). نريد أن نحدد أيضا عدد الحروف في اسم المستخدم لكي لا يبدو قبيحا. نستعمل التعبير النمطي التالي للتحقق من اسم المستخدم:
+</p>
 
 <br/><br/>
 <p align="center">
@@ -538,3 +544,4 @@ at the end of each line in a string.
 ## License
 
 MIT © [Zeeshan Ahmed](mailto:ziishaned@gmail.com)
+</div>
