@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/bYwl7Vf.png" alt="Learn Regex">
 </p><br/>
 
-## Translations:
+## الترجمات
 
 * [English](README.md)
 * [Español](README-es.md)
@@ -12,9 +12,9 @@
 * [日本語](README-ja.md)
 * [한국어](README-ko.md)
 
-## What is Regular Expression?
+## ما هي التعابير النمطية؟
 
-> Regular expression is a group of characters or symbols which is used to find a specific pattern from a text.
+> التعبير النمطي هو مجموعة حروف أو رموز تستعمل لإيجاد نمط محدد في نص ما.
 
 A regular expression is a pattern that is matched against a subject string from
 left to right. The word "Regular expression" is a mouthful, you will usually
@@ -37,7 +37,7 @@ Above regular expression can accept the strings `john_doe`, `jo-hn_doe` and
 `john12_as`. It does not match `Jo` because that string contains uppercase
 letter and also it is too short.
 
-## Table of Contents
+## المحتويات
 
 - [Basic Matchers](#1-basic-matchers)
 - [Meta character](#2-meta-characters)
