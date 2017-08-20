@@ -1,6 +1,7 @@
 <br/>
 <p align="center">
-<img src="https://i.imgur.com/bYwl7Vf.png" alt="Learn Regex">
+<h1>تعلم التعابير النمطية</h1>
+</h2>بالطريقة الصحيحة</h2>
 </p><br/>
 
 <h2 dir="rtl">الترجمات</h2>
