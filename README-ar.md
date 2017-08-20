@@ -1,6 +1,6 @@
 <br/>
-<h1 style="text-align: center;color:red">تعلم التعابير النمطية</h1>
-<h2 style="text-align: center;">بالطريقة الصحيحة</h2>
+<h1 align="center">تعلم التعابير النمطية</h1>
+<h2 align="center">بالطريقة الصحيحة</h2>
 <br/>
 
 <h2 dir="rtl">الترجمات</h2>
