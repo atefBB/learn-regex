@@ -31,9 +31,9 @@
   <img src="./img/regexp-ar.png" alt="تعبير نمطي">
 </p>
 
-Above regular expression can accept the strings `john_doe`, `jo-hn_doe` and
-`john12_as`. It does not match `Jo` because that string contains uppercase
-letter and also it is too short.
+<p dir="rtl">
+التعبير النمطي أعلاه يمكن أن يقبل السلاسل <code>john_doe</code> أو <code>jo-hn_doe</code> و <code>john12_as</code>. لا يطابق <code>Jo</code> لأن هذه السلسلة الحرفية تحتوي حرفا كبيرا وهي قصيرة جدا.
+</p>
 
 ## المحتويات
 
