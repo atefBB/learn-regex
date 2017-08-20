@@ -28,7 +28,7 @@
 
 <br/><br/>
 <p align="center">
-  <img src="./img/regexp-en.png" alt="Regular expression">
+  <img src="./img/regexp-ar.png" alt="تعبير نمطي">
 </p>
 
 Above regular expression can accept the strings `john_doe`, `jo-hn_doe` and
